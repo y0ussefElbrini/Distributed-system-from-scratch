@@ -1,0 +1,13 @@
+le map a duré 0.09689 secondes 
+le shuffle a duré 0.0959 secondes  
+le reduce a duré 0.08802 secondes  
+le tri a duré 1e-05 secondes  
+le temps du merge est 0.09208083152770996 
+la longeur du résultat final est4 
+
+veuillez trouver le résultat final ci-dessous :
+
+Car: 3
+Beer: 2
+Deer: 2
+River: 2
